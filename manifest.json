@@ -1,11 +1,12 @@
 {
-  "name": "Hackathon",
-  "short_name": "hac5",
-  "theme_color": "#0c0d81",
-  "background_color": "#0c0d81",
+  "name": "Hackathon PWA",
+  "short_name": "hac",
+  "theme_color": "#10327e",
+  "background_color": "#10327e",
   "display": "standalone",
+  "orientation": "portrait",
   "Scope": "/",
-  "start_url": "https://lshah.github.io/pwa-hackathon",
+  "start_url": "https://lshah.github.io/pwa-hackathon/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
