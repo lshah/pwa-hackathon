@@ -1,6 +1,6 @@
 let cacheName = 'v1';
 let cacheFiles = [
-				// './',
+				'./',
 				'./index.html',
 				'./app.js',
 				'./styles.css',
