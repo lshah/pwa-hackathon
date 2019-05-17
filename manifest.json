@@ -1,4 +1,6 @@
 {
+  "name": "Hackathon",
+  "short_name": "hac5",
   "theme_color": "#0c0d81",
   "background_color": "#0c0d81",
   "display": "standalone",
