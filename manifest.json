@@ -6,7 +6,7 @@
   "display": "standalone",
   "orientation": "portrait",
   "Scope": "/",
-  "start_url": "https://lshah.github.io/pwa-hackathon/",
+  "start_url": "/index.html",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
